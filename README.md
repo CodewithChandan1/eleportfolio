@@ -52,8 +52,8 @@ src/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/electrician-portfolio.git
-cd electrician-portfolio
+git clone https://github.com/CodewithChandan1/eleportfolio.git
+cd eleportfolio
 ```
 
 ### 2. Install dependencies
